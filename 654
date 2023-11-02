@@ -1,5 +1,4 @@
-
-CELESHAIN="mamaki"
+i"
 
 ----------------------------------------------------------
 echo 'export CELESTIA_CHAIN='$CELESTIA_CHAIN >> $HOME/.bash_profile
