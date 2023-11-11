@@ -1,4 +1,3 @@
-ofile
 
 ------------------------------------------------
 celestia-appd init $CELESTIA_NODENAME --chain-id $CELESTIA_CHAIN
