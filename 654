@@ -1,4 +1,4 @@
-estiaorg/networks/master/mamaki/bootstrap-peers.txt | tr -d '\n')
+g/networks/master/mamaki/bootstrap-peers.txt | tr -d '\n')
 
 --------------------------------------------------
 echo $BOOTSTRAP_PEERS
